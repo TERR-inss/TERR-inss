@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TERR-inss
+- 👋 Hi, I’m @TERR-inss (phonetically) or just Terence
 - 👀 I’m interested in web development, software engineering, and computer science
 - 🌱 I’m currently learning JavaScript
 
