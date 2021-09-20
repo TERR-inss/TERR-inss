@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TERR-inss or simply Terence
 - 👀 I’m interested in web development, software engineering, and computer science
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, HTML, CSS
 
 
 <!---
