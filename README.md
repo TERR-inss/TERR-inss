@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TERR-inss or simply Terence
 - 👀 Interested in software, web development and computer science
-- 💻 Full-stack engineer ~ programming in (Java|Type)Script, HTML, CSS
+- 💻 Full-stack engineer ~ programming in JavaScript, TypeScript, HTML, CSS
 - 🌱 Currently learning Rust
 
 
